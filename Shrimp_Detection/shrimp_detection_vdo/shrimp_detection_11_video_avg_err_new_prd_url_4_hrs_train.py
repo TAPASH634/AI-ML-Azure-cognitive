@@ -11,11 +11,11 @@ import random
 from prettytable import PrettyTable
 
 # Azure Custom Vision Prediction URL and Key
-PREDICTION_URL = "https://shrimpdetectionchecktray-prediction.cognitiveservices.azure.com/customvision/v3.0/Prediction/2a6ac7c8-12b9-42b7-98c3-612540ff9896/detect/iterations/Iteration2/image"
-KEY = "d6a4bcd8106d4a22a6b0c9af6293964b"
+PREDICTION_URL = "https://bariflocustomvision-prediction.cognitiveservices.azure.com/customvision/v3.0/Prediction/300ad940-da23-4789-864d-ee6f8dd69e2d/detect/iterations/Iteration2/image"
+KEY = "9fd8c8196f1d479380faa10c0de24c05"
 
-PIXEL_OF_REFERENCE = 523.71  # Values of the reference object
-REFERENCE_LENGTH_CM = 11.858  # 6.858
+PIXEL_OF_REFERENCE = 238.65  # Values of the reference object
+REFERENCE_LENGTH_CM = 5.858  # 6.858
 PIXELS_PER_CM = PIXEL_OF_REFERENCE / REFERENCE_LENGTH_CM
 
 # Headers for the request
