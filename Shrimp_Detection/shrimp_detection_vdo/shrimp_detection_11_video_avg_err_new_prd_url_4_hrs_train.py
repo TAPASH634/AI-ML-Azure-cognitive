@@ -11,7 +11,7 @@ import random
 from prettytable import PrettyTable
 
 # Azure Custom Vision Prediction URL and Key
-PREDICTION_URL = "https://bariflocustomvision-prediction.cognitiveservices.azure.com/customvision/v3.0/Prediction/300ad940-da23-4789-864d-ee6f8dd69e2d/detect/iterations/Iteration2/image"
+PREDICTION_URL = "https://bariflocustomvision-prediction.cognitiveservices.azure.com/customvision/v3.0/Prediction/300ad940-da23-4789-864d-ee6f8dd69e2d/detect/iterations/Iteration3/image"
 KEY = "9fd8c8196f1d479380faa10c0de24c05"
 
 PIXEL_OF_REFERENCE = 238.65  # Values of the reference object
