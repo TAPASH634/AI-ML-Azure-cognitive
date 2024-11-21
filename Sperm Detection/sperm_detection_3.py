@@ -89,7 +89,7 @@ def detect_sperm(image_path, output_image_path):
                 height = bounding_box['height'] * image.height
 
                 diagonal_pixels = math.sqrt(width**2 + height**2)
-                area = diagonal_pixels * width
+                area = height * width
                 print(f"Bounding Box Diagonal: {area:.2f} pixels")
 
                 sperm_data.append((unique_id_counter, area))
