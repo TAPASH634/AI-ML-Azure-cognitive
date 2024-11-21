@@ -1,0 +1,2 @@
+sperm_detection.py --> Convert the videos to the frames and then detect the sperm in each frames created from the videos and store in a folder locally.                                   
+sperm_detection_3.py --> Convert the videos to the frames and then detect the sperm in each frames created from the videos as well as calculate the area and store in a folder locally. 
