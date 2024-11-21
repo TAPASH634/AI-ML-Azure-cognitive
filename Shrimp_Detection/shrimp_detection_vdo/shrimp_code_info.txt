@@ -1,0 +1,3 @@
+shrimp_detection_11_video_avg_err_new_prd_url_4_hrs_train.py --> Convert the videos to the frames and then detect the shrimp in each frames created from the videos and store in a folder locally.                                   
+shrimp_detection_13_5_hr train_send_azure_blob.py --> Convert the videos to the frames and then detect the shrimp in each frames created from the videos and store in a folder locally and send the data to the Blob .
+video_frames.py --> Convert the videos to the frames.
