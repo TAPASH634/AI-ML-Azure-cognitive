@@ -1,3 +1,4 @@
 crab_detectrion.py - this file is for to detect crab from video.
 crab_vdo_frames.py - this file covert the video into frames .
 mud_crab_detection_count_table.py - This file count the crablets from each images .
+mud_crab_moulting_detection.py - This file detects the crab moulding in the video.
